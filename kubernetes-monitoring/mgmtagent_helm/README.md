@@ -4,7 +4,7 @@
 -->
 
 # **OCI Management Agent Helm Chart**
-
+ **Kindly be informed that this is the outdated version of our project repository. To access the latest updates, contributions, and information, we urge you to visit the most recent version of our repository [Kubernetes Monitoring](https://github.com/oracle-quickstart/oci-kubernetes-monitoring). Ensuring accuracy we advise referencing the current repository.**
 ## About
 
 This provides an end-to-end monitoring solution for Kubernetes Clusters using Management Agent, Monitoring and other Oracle Cloud Infrastructure (OCI) Services. Following steps will walk you through the steps to configure Oracle Management Agent (Oracle provided data collector and Prometheus scraper) to collect various metrics from Kubernetes Cluster using package manager Helm.
